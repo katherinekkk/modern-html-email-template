@@ -1,2 +1,4 @@
 # modern-html-email-template
-Modern HTML Email Template using internal and inline CSS
+This Responsive HTML Email Template is built using <table> tag. 
+The purpose of using tables is to ensure consistent rendering across various email clients, which may have different levels of support for modern HTML and CSS. 
+The use of inline styles and attributes within the <table> elements helps maintain compatibility with various email clients.
